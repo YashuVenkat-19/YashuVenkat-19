@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Yashu Venkat Sivalingam
-- 👀 I’m interested in Python, Web Dev.
+- 👀 I’m interested in JavaScript, Web Dev.
+- 📙 I am currently learning react.js
 - 🌱 I’m currently persuing B.E. CSE 
 - 📫 How to reach me yashuvenkatsivalingam@gmail.com
 
