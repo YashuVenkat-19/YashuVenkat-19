@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yashu Venkat Sivalingam
 
 - 👀 I’m interested in JavaScript, Web Dev.
-- 📙 I am currently learning react.js
+- 📙 I am currently learning java,datastructres and react.js
 - 🌱 I’m currently persuing B.E. CSE 
 - 📫 How to reach me 
 <div align="center">
