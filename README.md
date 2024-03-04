@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yashu Venkat Sivalingam
 
-- 👀 I’m interested in JavaScript, Web Dev.
+- 👀 I’m interested in FullStack Development.
 - 📙 I am currently learning java,datastructres and react.js
 - 🌱 I’m currently persuing B.E. CSE 
 - 📫 How to reach me 
